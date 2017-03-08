@@ -1,3 +1,6 @@
+Write a program to implement wordcount using Pig. 
+
+
 1.A = load '/user/acadgild/Desktop/sam.txt';
 
 
